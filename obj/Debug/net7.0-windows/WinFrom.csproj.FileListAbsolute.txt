@@ -1,0 +1,16 @@
+D:\Project\.net\WinFrom\bin\Debug\net7.0-windows\WinFrom.exe
+D:\Project\.net\WinFrom\bin\Debug\net7.0-windows\WinFrom.deps.json
+D:\Project\.net\WinFrom\bin\Debug\net7.0-windows\WinFrom.runtimeconfig.json
+D:\Project\.net\WinFrom\bin\Debug\net7.0-windows\WinFrom.dll
+D:\Project\.net\WinFrom\bin\Debug\net7.0-windows\WinFrom.pdb
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.Form1.resources
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.csproj.GenerateResource.cache
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.AssemblyInfoInputs.cache
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.AssemblyInfo.cs
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.csproj.CoreCompileInputs.cache
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.dll
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\refint\WinFrom.dll
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.pdb
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\WinFrom.genruntimeconfig.cache
+D:\Project\.net\WinFrom\obj\Debug\net7.0-windows\ref\WinFrom.dll
